@@ -2,7 +2,7 @@
 title: 'Looking Glass House (Paged)'
 cover: '/img/carroll-cover.jpg'
 isPost: true
-active: true
+active: false
 isPaged: true
 pageCount: 3
 pageSize: 1

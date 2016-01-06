@@ -2,13 +2,12 @@
 title: "Hello Worlding"
 cover: '/img/hello-masthead.jpg'
 isPost: true
-active: true
+active: false
 excerptOther: 'A test post. Vivamus sed laoreet ante, sed pretium justo. Nunc magna nulla, tempus ut felis non, venenatis lobortis lacus. Donec vulputate purus feugiat sapien laoreet, eu placerat est dapibus.'
-postDate: 'Fri Jun 05 2015 12:50:54 GMT-0600 (Mountain Daylight Time)'
+postDate: 'Tue Jan  5 19:11:09 2016 PST'
 tags:
  - first post
  - world
- - test
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat pretium lacus quis aliquet. Sed interdum aliquet sem in facilisis. Praesent facilisis odio non luctus commodo. Cras in mi id libero pellentesque ullamcorper. Sed mattis eros in erat viverra adipiscing. Vivamus sed laoreet ante, sed pretium justo. Nunc magna nulla, tempus ut felis non, venenatis lobortis lacus. Donec vulputate purus feugiat sapien laoreet, eu placerat est dapibus.
