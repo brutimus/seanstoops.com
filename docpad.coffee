@@ -74,6 +74,9 @@ docpadConfig = {
       apiKey: 'YC5PULJiznlbBiqvnUuiB3MfCctZ1sRuuzW2AjUlKaT2oNhaXT'
     dateurls:
       cleanurl: true
+    sunny:
+      configFromEnv: true
+      onlyIfProduction: false
 }
 
 module.exports = docpadConfig
