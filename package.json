@@ -4,6 +4,7 @@
   "description": "The Casper theme for Docpad",
   "dependencies": {
     "docpad": "~6.78.1",
+    "docpad-plugin-cleanurls": "~2.8.1",
     "docpad-plugin-dateurls": "~2.4.0",
     "docpad-plugin-eco": "~2.1.0",
     "docpad-plugin-marked": "~2.3.0",

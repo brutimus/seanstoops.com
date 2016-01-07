@@ -16,6 +16,17 @@ In early 2014, I began thinking about upgrading to something bigger in order to 
 
 The problem was, since I already had a pretty decent-sized vehicle, upgrading to a small van just didn’t seem worth it — I’d spend a lot to upgrade but not gain a huge amount of space.
 
+If I was going to get something new, I wanted it to meet a few requirements:
+
+- Fuel efficient
+- **Reliable**
+- Semi off road worthy (good clearance)
+- Maneuverable
+- Space for climbing gear and bicycles
+- **Stealth**
+
+***
+
 The infamous *Sprinter Van* was sort of a dream vehicle, but I was certain it was out of my price range and the thought of something so big made me shudder. After a month or so of casual searching the usual places, I began to realize lower prices could be found, but you must be tedious and act quickly.
 
 I ended up catching the perfect circumstances and landed a 2004 Dodge Sprinter for $6000 flat. It had 240,000 miles, ran well and had minimal rust considering it grew up in both Minnesota and Connecticut.
