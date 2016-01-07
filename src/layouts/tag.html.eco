@@ -7,7 +7,7 @@ layout: 'default'
 
 <main id="content" class="content" role="main">
   <h1 style="width: 80%; max-width: 710px; margin: 0px auto;">Posts for "<%= @document.tag %>" tag</h1>
-  <% for page in @getFiles({tags:{$has: @document.tag} ,isPagedAuto: {$ne: true}}, {postDate: -1}).toJSON(): %>
+  <% for page in @getFiles({tags:{$has: @document.tag} ,isPagedAuto: {$ne: true}}, {date: -1}).toJSON(): %>
   <article class="post">
     <header class="post-header">
       <h2 class="post-title"><a href="<%= page.url %>"><%= page.title %></a></h2>
@@ -23,7 +23,7 @@ layout: 'default'
       <% if page.tags: %>
         <%- @partial('tags', {tags: page.tags}) %>
       <% end %>
-      <time class="post-date" datetime="<%= @time(page.postDate, 'YYYY-MMMM-DD') %>"><%= @time(page.postDate, 'DD MMMM YYYY') %></time>
+      <time class="post-date" datetime="<%= @time(page.date, 'YYYY-MMMM-DD') %>"><%= @time(page.date, 'DD MMMM YYYY') %></time>
     </footer>
   </article>
   <% end %>

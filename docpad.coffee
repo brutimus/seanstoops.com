@@ -6,13 +6,18 @@ docpadConfig = {
       tagline: 'Things I do'
       description: 'A places for me to write about things I find interesting'
       logo: '/img/logo.png'
-      url: ''
+      url: 'http://www.seanstoops.com'
       cover: '/img/cover.jpg'
       navigation: [
         {
           name: 'Home',
           href: '/',
           section: 'home'
+        },
+        {
+          name: 'Sprinter Van',
+          href: '/tags/sprinter.html',
+          section: 'tag-sprinter'
         },
         {
           name: 'About',
@@ -27,8 +32,8 @@ docpadConfig = {
       ]
     author:
       name: 'Sean Stoops'
-      img: ''
-      url: '/'
+      img: '/img/mug.png'
+      href: '/about.html'
       location: 'Las Vegas, NV',
       bio: ''
     getPreparedTitle: -> if @document.title then "#{@document.title} | #{@site.title}" else @site.title
@@ -53,7 +58,7 @@ docpadConfig = {
       moment(ts).format(format)
   collections:
     posts: ->
-      @getCollection("html").findAllLive({active:true, isPost: true, isPagedAuto: {$ne: true}}, {postDate: -1}).on "add", (model) ->
+      @getCollection("html").findAllLive({active:true, isPost: true, isPagedAuto: {$ne: true}}, {date: -1}).on "add", (model) ->
         model.setMetaDefaults({layout:"post"})
   plugins:
     tags:
@@ -64,6 +69,11 @@ docpadConfig = {
       default:
         collection: 'posts'
         url: '/rss.xml'
+    tumblr:
+      blog: 'seanstoops.tumblr.com'
+      apiKey: 'YC5PULJiznlbBiqvnUuiB3MfCctZ1sRuuzW2AjUlKaT2oNhaXT'
+    dateurls:
+      cleanurl: true
 }
 
 module.exports = docpadConfig

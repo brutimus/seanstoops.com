@@ -2,9 +2,9 @@
 title: "Comprehensive Style Test"
 cover: '/img/bear-masthead.jpg'
 isPost: true
-active: false
+active: true
 excerpt: Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.  It also uses the custom excerpt setting.
-postDate: 'Fri Jun 04 2015 12:50:54 GMT-0600 (Mountain Daylight Time)'
+date: 'Fri Jun 04 2015 12:50:54 GMT-0600 (Mountain Daylight Time)'
 tags:
 - test
 ---
