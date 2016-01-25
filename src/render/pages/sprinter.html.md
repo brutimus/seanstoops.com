@@ -1,5 +1,5 @@
 ---
-title: Sprinter Van
+title: Buying and building out a Sprinter Van
 cover: '/img/sprinter-red-rocks.jpg'
 isPost: true
 active: true
@@ -23,7 +23,7 @@ Here is how I came into possession of my van and how I built it out:
 
 - [Introduction](/2016/01/05/introduction)
 - [Planning](/2016/01/06/planning)
-- [Purchase](/2016/01/24/purchase)
+- [Purchase](/2016/01/24/sprinter-purchase)
 - [Deconstruction](/2016/01/25/deconstruction)
 - Insulation - Coming soon!
 - Electrical - Coming soon!

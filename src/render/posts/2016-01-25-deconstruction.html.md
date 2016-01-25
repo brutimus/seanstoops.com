@@ -2,7 +2,7 @@
 title: "Sprinter Van: Deconstruction "
 cover: '/img/build-grinding.jpg'
 isPost: true
-active: false
+active: true
 excerpt: 'The van was in great shape when I purchased it. However, it still needed a bit of work to strip it down and ready it for the construction process.'
 date: '2016/1/25'
 section: 'sprinter'
