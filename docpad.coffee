@@ -16,8 +16,8 @@ docpadConfig = {
         },
         {
           name: 'Sprinter Van',
-          href: '/tags/sprinter.html',
-          section: 'tag-sprinter'
+          href: '/pages/sprinter.html',
+          section: 'sprinter'
         },
         {
           name: 'About',
@@ -25,9 +25,9 @@ docpadConfig = {
           section: 'about'
         },
         {
-          name: 'Test Posts',
-          href: '/tags/test.html',
-          section: 'tag-test'
+          name: 'Old Blog',
+          href: 'http://blog.seanstoops.com',
+          section: 'old-blog'
         }
       ]
     author:

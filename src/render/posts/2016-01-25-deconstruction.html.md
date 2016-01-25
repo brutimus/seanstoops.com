@@ -2,9 +2,10 @@
 title: "Sprinter Van: Deconstruction "
 cover: '/img/build-grinding.jpg'
 isPost: true
-active: true
+active: false
 excerpt: 'The van was in great shape when I purchased it. However, it still needed a bit of work to strip it down and ready it for the construction process.'
-date: '2016/1/7'
+date: '2016/1/25'
+section: 'sprinter'
 tags:
  - sprinter
  - adventure
@@ -17,10 +18,11 @@ The following is a synopsis of the van's condition at the time of purchase:
 - Previous owners: At least two
 - Cab: Clean and in great condition
 - Cargo area: Shelving and ceiling racks permanently installed
-- Exterior: Minor rust around the bottom, especially the doors. Undercarrage a bit rusty.
+- Exterior: Minor rust around the bottom, especially the doors. Undercarriage a bit rusty.
 - Previous owner had been up on all fluid changes using Mercedes Benz spec fluids
 - Tires: Rears relatively new, fronts pretty worn
 - Brakes: When I picked it up, I assumed they were in good shape as the PO had not mentioned them. However, on my trek to Kansas,  the front right began grinding very loudly. I then realized the pad had ground down to bare metal. I replaced them ASAP before continuing my journey.
+- Paint: Had been repainted early in its life, so the body rust was minimal
 
 During my drive home from Connecticut to Las Vegas, I stopped for a few days at my parents’ in Kansas. Here, I had access to tools I did not have at home, primarily, an angle grinder.
 
@@ -30,7 +32,7 @@ I spent the better part of a two days stripping the interior of the cargo area, 
 - Remove the welded-on ceiling racks
 - Remove the riveted-on wood floor
 - Remove the bulkhead between the cab and cargo area
-- Clean up all intertior rust, prime and repaint
+- Clean up all interior rust, prime and repaint
 
 The worst spot of rust I worked on was the threshold for the rear doors. I ended up removing all plastic pieces, ground it back down to bare metal, applied some rust neutralizer, primed and painted.
 
@@ -80,4 +82,3 @@ You get the idea: lots of grinding, lots of sparks, some sanding, some painting 
 Next up, time to hit the road back home and get ready to build!
 
 ![New Mexico](/img/sprinter_new_mexico.jpg)
-
