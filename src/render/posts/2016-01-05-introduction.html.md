@@ -32,18 +32,6 @@ If I was going go forward with purchasing something new, I wanted it to meet a f
 
 ***
 
-I began looking at my options -- everything from a Honda Element to an Astro Van, a Chevy Express to a Ford Econoline. Friends of mine had VW Westfalia vans and I knew those were not my cup of tea. A Sprinter van would never be in my budget, I thought, nor was I entirely sure I wanted one. They are awfully big and cumbersome, but that high fuel economy kept me thinking.
+What I will be explaining in the next few posts actually took place in March - May of 2015. It is currently January of 2016 and I've finally been coaxed into writing up my experience.
 
-After ruling out the others as being not big enough to be worth the upgrade, or too fuel inefficient, I started looking around to see what a Sprinter could be had for.
-
-After a month or so of casual searching the usual places -- eBay, Craigslist, etc. --  I began to realize lower prices could be found, but you have to act swiftly.
-
-Just such a deal was posted to the [sprinter forums](http://sprinter-source.com) -- a 2004 Dodge Sprinter, 242,000 miles, minimal rust, for $6,000 flat. The owner was an active member of the forums which allowed me to see all the issues he had and how he fixed them. He appeared to be an upstanding and honest guy, so I decided to jump on the offer he made me.
-
-After a $400 plane ticket and a 2,700 mile drive, I was back home with my shiny, albeit bug-splattered, cargo van.
-
-***
-
-That's the short version of it, anyways. This all actually took place in March - May of 2015. It is currently January of 2016 and I've finally been coaxed into writing up my experience.
-
-Unfortunately, my build took place over the course of about six weeks. I didn't have time or the mental capacity to take too many photos. But I'll try my best to scrape together the few photos I do have and tell you how I managed to buy my van, build it out and keep it running for 20,000 miles and counting.
+Unfortunately, since my build took place over the course of about six weeks, I didn't have time or the forethought to take many photos. But I'll try my best to scrape together the few photos I do have and tell you how I managed to buy my van, build it out and keep it running for 20,000 miles and counting.

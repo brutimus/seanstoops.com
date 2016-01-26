@@ -34,48 +34,24 @@ I spent the better part of a two days stripping the interior of the cargo area, 
 - Remove the bulkhead between the cab and cargo area
 - Clean up all interior rust, prime and repaint
 
-The worst spot of rust I worked on was the threshold for the rear doors. I ended up removing all plastic pieces, ground it back down to bare metal, applied some rust neutralizer, primed and painted.
+The worst spot of rust I worked on was the threshold for the rear doors. I ended up removing all plastic pieces, ground it back down to bare metal, applied some [rust converter](http://amzn.to/1S7wgOZ), primed and painted.
 
 Once the van was stripped of all accoutrements (and some rust), I was ready for the final leg of my trip home and to begin the build-out.
 
 ***
 
-## Photos received from the previous owner
-
-![Purchase Photo 1](/img/purchase/purchase_photo_1.jpg)
-![Purchase Photo 2](/img/purchase/purchase_photo_2.jpg)
-![Purchase Photo 3](/img/purchase/purchase_photo_3.jpg)
-![Purchase Photo 4](/img/purchase/purchase_photo_4.jpg)
-If you're paying attention, you'll notice in the introductory post, I said the van was a Dodge. The PO had re-branded it back to its Mercedes roots with a new grill, new emblems on the hub caps and a new steering wheel badge.
-
-![Purchase Photo 5](/img/purchase/purchase_photo_5.jpg)
-![Purchase Photo 6](/img/purchase/purchase_photo_6.jpg)
-For a van with 242,000 miles on the clock, this cab is immaculate!
-
-![Purchase Photo 7](/img/purchase/purchase_photo_7.jpg)
-![Purchase Photo 8](/img/purchase/purchase_photo_8.jpg)
-![Purchase Photo 9](/img/purchase/purchase_photo_9.jpg)
-![Purchase Photo 10](/img/purchase/purchase_photo_10.jpg)
-![Purchase Photo 11](/img/purchase/purchase_photo_11.jpg)
-![Purchase Photo 12](/img/purchase/purchase_photo_12.jpg)
-I was expecting worse than this given the New England roads.
-
-![Purchase Photo 13](/img/purchase/purchase_photo_13.jpg)
-No injector blow-by (black death)!
-
-![Purchase Photo 14](/img/purchase/purchase_photo_14.jpg)
-I guess the van had an alignment issue that got fixed before I purchased it. But you can see the damage it did to the front tire.
-
-***
-
 ## Photos of the deconstruction process
 
-I admit, I should have take a lot more photos. But this whole process was such a rush that I never stopped to pick up a camera.
+I admit, I should have take a lot more photos. But this whole process was such a rush that I never stopped to pick up my camera.
 
 ![Deconstruction Photo 1](/img/deconstruction_photo_1.jpg)
 ![Deconstruction Photo 2](/img/deconstruction_photo_2.jpg)
 
-You get the idea: lots of grinding, lots of sparks, some sanding, some painting and it back as good as new.
+You get the idea: lots of grinding, lots of sparks, some sanding, some painting and it's back as good as new.
+
+***
+
+In retrospect, I should have paid a little more attention to the mechanics. I had tunnel vision for the build out of the interior, so that's all I gave any attention to. My short timeframe didn't allow me any time to spare for anything but the interior. Lesson learned.
 
 ***
 
