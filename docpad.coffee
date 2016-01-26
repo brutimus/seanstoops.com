@@ -69,9 +69,6 @@ docpadConfig = {
       default:
         collection: 'posts'
         url: '/rss.xml'
-    tumblr:
-      blog: 'seanstoops.tumblr.com'
-      apiKey: 'YC5PULJiznlbBiqvnUuiB3MfCctZ1sRuuzW2AjUlKaT2oNhaXT'
     dateurls:
       cleanurl: true
     sunny:
