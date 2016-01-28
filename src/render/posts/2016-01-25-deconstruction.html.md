@@ -11,6 +11,13 @@ tags:
  - adventure
 ---
 
+###### Catch up on previous steps
+- [Introduction](/2016/01/05/introduction)
+- [Planning](/2016/01/06/planning)
+- [Purchase](/2016/01/24/sprinter-purchase)
+
+***
+
 The following is a synopsis of the van's condition at the time of purchase:
 
 - Year: 2004
@@ -58,3 +65,9 @@ In retrospect, I should have paid a little more attention to the mechanics. I ha
 Next up, time to hit the road back home and get ready to build!
 
 ![New Mexico](/img/sprinter_new_mexico.jpg)
+
+***
+
+###### Next up:
+- [Roof vent](/2016/01/26/roof-vent)
+- [Insulation](/2016/01/28/insulation)

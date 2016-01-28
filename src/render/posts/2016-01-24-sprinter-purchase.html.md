@@ -11,6 +11,12 @@ tags:
  - adventure
 ---
 
+###### Catch up on previous steps
+- [Introduction](/2016/01/05/introduction)
+- [Planning](/2016/01/06/planning)
+
+***
+
 *This post is not intended to be any form of financial advice. Your van purchase is your decision. I will simply outline my own experience which turned out pretty well. Good luck! =)*
 
 I began my search for an upgrade by looking at a few options -- everything from a Honda Element to an Astro Van, a Chevy Express to a Ford Econoline. Friends of mine had VW Westfalia vans and I knew those were not my cup of tea. A Sprinter van was certainly not in my budget I assumed.
@@ -97,3 +103,10 @@ No injector blow-by (black death)!
 
 ![Purchase Photo 14](/img/purchase/purchase_photo_14.jpg)
 I guess the van had an alignment issue that got fixed before I purchased it. But you can see the damage it did to the front tire.
+
+***
+
+###### Next up:
+- [Deconstruction](/2016/01/25/deconstruction)
+- [Roof vent](/2016/01/26/roof-vent)
+- [Insulation](/2016/01/28/insulation)

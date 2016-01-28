@@ -35,3 +35,12 @@ If I was going go forward with purchasing something new, I wanted it to meet a f
 What I will be explaining in the next few posts actually took place in March - May of 2015. It is currently January of 2016 and I've finally been coaxed into writing up my experience.
 
 Unfortunately, since my build took place over the course of about six weeks, I didn't have time or the forethought to take many photos. But I'll try my best to scrape together the few photos I do have and tell you how I managed to buy my van, build it out and keep it running for 20,000 miles and counting.
+
+***
+
+###### Next up:
+- [Planning](/2016/01/06/planning)
+- [Purchase](/2016/01/24/sprinter-purchase)
+- [Deconstruction](/2016/01/25/deconstruction)
+- [Roof vent](/2016/01/26/roof-vent)
+- [Insulation](/2016/01/28/insulation)
