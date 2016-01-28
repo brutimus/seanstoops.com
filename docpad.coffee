@@ -16,7 +16,7 @@ docpadConfig = {
         },
         {
           name: 'Sprinter Van',
-          href: '/pages/sprinter.html',
+          href: '/pages/sprinter/',
           section: 'sprinter'
         },
         {
@@ -56,6 +56,24 @@ docpadConfig = {
       format = format || 'MMMM DO, YYYY'
       ts = new Date(ts) || new Date()
       moment(ts).format(format)
+  events:
+    writeBefore: (opts) ->
+        getTag = (ogName, data) ->
+          return "\n    <meta property=\"#{ogName}\" content=\"#{data}\" />"
+        docpad = @docpad
+        templateData = docpad.getTemplateData()
+        siteUrl = templateData.site.url
+        for model in opts.collection.models
+            if model.get('outExtension') == 'html'
+                url = getTag('og:url', siteUrl + model.get('url'))
+                title = getTag('og:title', model.get('title'))
+                description = getTag('og:description', model?.get('excerpt') || model.get('content').replace(/<%.+%>/gi, '').split(' ').slice(0, 26).join(' '))
+                image = getTag('og:image', model?.get('cover') || templateData.site.cover)
+                app_id = getTag('fb:app_id', '1684341971851739')
+                content = model.get('contentRendered')
+                if model.get('isPost')
+                    content = content.replace(/<\/title>/, '</title>'+url+title+description+image+app_id)
+                    model.set('contentRendered', content)
   collections:
     posts: ->
       @getCollection("html").findAllLive({active:true, isPost: true, isPagedAuto: {$ne: true}}, {date: -1}).on "add", (model) ->

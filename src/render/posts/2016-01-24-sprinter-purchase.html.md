@@ -23,7 +23,7 @@ In order to keep the dizzying combinations of year models, mileage, conditions, 
 
 <iframe src="https://docs.google.com/spreadsheets/d/1wLSHUxmwWS71NWYM_TyFpWd3dckQvB5Y8OPNsOyA6uU/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;chrome=false&amp;headers=false" style="width:100%;height:400px;"></iframe>
 
-A deal that fit my criteria eventually popped up on the [sprinter forums](http://sprinter-source.com) -- a 2004 Dodge Sprinter, 242,000 miles, minimal rust and great interior for $6,000 flat. The owner was an active member of the forums which allowed me to see all the issues he had and how he fixed them. He appeared to be an upstanding and honest guy, so I decided to jump on the offer he made me.
+A deal that fit my criteria eventually popped up on the [sprinter forums](http://sprinter-source.com) -- a 2004 Dodge Sprinter, 242,000 miles, minimal rust and great interior for a *very* good price. The owner was an active member of the forums which allowed me to see all the issues he had and how he fixed them. He appeared to be an upstanding and honest guy, so I decided to jump on the offer he made me.
 
 After a $400 plane ticket and a 2,700 mile drive, I was back home with my shiny, albeit bug-splattered, cargo van.
 

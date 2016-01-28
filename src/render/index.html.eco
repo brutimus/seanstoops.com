@@ -5,7 +5,7 @@ isPaged: true
 pagedCollection: 'posts'
 split: true
 prefix: 'page'
-pageSize: 5
+pageSize: 20
 ---
 
 <header class="main-header" style="background-image: url(<%= @masthead() %>)">
