@@ -10,7 +10,7 @@ layout: 'default'
       <h1 class="post-title"><%= @document.title %></h1>
       <section class="post-meta">
         <% if @document.isPaged: %>
-          <b>Page <%= @document.page.number + 1 %></b> 
+          <b>Page <%= @document.page.number + 1 %></b>
         <% end %>
         <time class="post-date" datetime="<%= @time(@document.date, 'YYYY-MMMM-DD') %>"><%= @time(@document.date, 'DD MMMM YYYY') %></time> <% if @document.tags: %><%- @partial('tags', {tags: @document.tags}) %><% end %>
       </section>
@@ -28,8 +28,21 @@ layout: 'default'
     <% if @document.isPaged: %>
       <%- @partial('article-pager') %>
     <% end %>
-    <footer class="post-footer">
+    <hr>
+    <section class="donations">
+      <h5>Thank you!</h5>
+      <p>
+        If you've found any of my posts useful and would like to show your appreciation, please considering making an Amazon purchase through one of my Amazon Associate links I used in my posts. Otherwise, I welcome contributions of any size using the PayPal button below. These funds will go towards offsetting the cost of hosting this blog. Again, thank you for following along on my misadventures! -Sean
+      </p>
+      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <input type="hidden" name="cmd" value="_s-xclick">
+        <input type="hidden" name="hosted_button_id" value="C9K829UE895UJ">
+        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+      </form>
+    </section>
 
+    <footer class="post-footer">
       <% if @author.img: %>
       <figure class="author-image">
         <a class="img" href="<%= @author.href %>" style="background-image: url(<%= @author.img %>)"><span class="hidden"><%= @author.name %>'s Picture</span></a>

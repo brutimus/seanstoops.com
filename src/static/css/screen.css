@@ -1115,6 +1115,23 @@ body:not(.post-template) .post-title {
     text-decoration: none;
 }
 
+/* Donations box */
+
+.donations h4 {
+    font-size: 1.8rem;
+    margin: 0;
+}
+
+.donations p {
+    margin: 1rem 0;
+    font-size: 1.4rem;
+    line-height: 1.75em;
+}
+
+.donations form {
+  width: 150px;
+  margin: 20px auto 0 auto;
+}
 
 /* The author credit area after the post */
 .post-footer {

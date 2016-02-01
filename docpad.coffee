@@ -34,6 +34,7 @@ docpadConfig = {
       name: 'Sean Stoops'
       img: '/img/mug.png'
       href: '/about.html'
+      website: 'http://www.seanstoops.com'
       location: 'Las Vegas, NV',
       bio: ''
     getPreparedTitle: -> if @document.title then "#{@document.title} | #{@site.title}" else @site.title
@@ -68,7 +69,7 @@ docpadConfig = {
                 url = getTag('og:url', siteUrl + model.get('url'))
                 title = getTag('og:title', model.get('title'))
                 description = getTag('og:description', model?.get('excerpt') || model.get('content').replace(/<%.+%>/gi, '').split(' ').slice(0, 26).join(' '))
-                image = getTag('og:image', model?.get('cover') || templateData.site.cover)
+                image = getTag('og:image', siteUrl + (model?.get('cover') || templateData.site.cover))
                 app_id = getTag('fb:app_id', '1684341971851739')
                 content = model.get('contentRendered')
                 if model.get('isPost')

@@ -27,6 +27,7 @@ Feel free to read through these sections as I get them written to see how I mana
 - [Deconstruction](/2016/01/25/deconstruction)
 - [Roof vent](/2016/01/26/roof-vent)
 - [Insulation](/2016/01/28/insulation)
+- [Flooring](/2016/02/01/flooring)
 - Electrical - Coming soon!
 - Bed - Coming soon!
 - Seating - Coming soon!
