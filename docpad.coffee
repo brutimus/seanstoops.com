@@ -71,10 +71,13 @@ docpadConfig = {
                 description = getTag('og:description', model?.get('excerpt') || model.get('content').replace(/<%.+%>/gi, '').split(' ').slice(0, 26).join(' '))
                 image = getTag('og:image', siteUrl + (model?.get('cover') || templateData.site.cover))
                 app_id = getTag('fb:app_id', '1684341971851739')
+                admins_id = getTag('fb:admins', '62900719')
                 content = model.get('contentRendered')
+                extra = image+app_id+admins_id
                 if model.get('isPost')
-                    content = content.replace(/<\/title>/, '</title>'+url+title+description+image+app_id)
-                    model.set('contentRendered', content)
+                  extra = extra + url + title + description
+                content = content.replace(/<\/title>/, '</title>' + extra)
+                model.set('contentRendered', content)
   collections:
     posts: ->
       @getCollection("html").findAllLive({active:true, isPost: true, isPagedAuto: {$ne: true}}, {date: -1}).on "add", (model) ->
@@ -90,6 +93,10 @@ docpadConfig = {
         url: '/rss.xml'
     dateurls:
       cleanurl: true
+      trailingSlashes: true
+    cleanurls:
+      static: true
+      trailingSlashes: true
     sunny:
       configFromEnv: true
       onlyIfProduction: false

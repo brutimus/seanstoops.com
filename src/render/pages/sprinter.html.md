@@ -21,13 +21,14 @@ It's been stuck once in, unfortunately, probably the [remotest place](https://ww
 
 Feel free to read through these sections as I get them written to see how I managed to purchase and build out my van.
 
-- [Introduction](/2016/01/05/introduction)
-- [Planning](/2016/01/06/planning)
-- [Purchase](/2016/01/24/sprinter-purchase)
-- [Deconstruction](/2016/01/25/deconstruction)
-- [Roof vent](/2016/01/26/roof-vent)
-- [Insulation](/2016/01/28/insulation)
-- [Flooring](/2016/02/01/flooring)
+- [Introduction](/2016/01/05/introduction/)
+- [Planning](/2016/01/06/planning/)
+- [Purchase](/2016/01/24/sprinter-purchase/)
+- [Deconstruction](/2016/01/25/deconstruction/)
+- [Roof vent](/2016/01/26/roof-vent/)
+- [Insulation](/2016/01/28/insulation/)
+- [Flooring](/2016/02/01/flooring/)
+- [Walls](/2016/02/05/walls/)
 - Electrical - Coming soon!
 - Bed - Coming soon!
 - Seating - Coming soon!

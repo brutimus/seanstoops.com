@@ -12,9 +12,9 @@ tags:
 ---
 
 ###### Catch up on previous steps
-- [Introduction](/2016/01/05/introduction)
-- [Planning](/2016/01/06/planning)
-- [Purchase](/2016/01/24/sprinter-purchase)
+- [Introduction](/2016/01/05/introduction/)
+- [Planning](/2016/01/06/planning/)
+- [Purchase](/2016/01/24/sprinter-purchase/)
 
 ***
 
@@ -69,5 +69,7 @@ Next up, time to hit the road back home and get ready to build!
 ***
 
 ###### Next up:
-- [Roof vent](/2016/01/26/roof-vent)
-- [Insulation](/2016/01/28/insulation)
+- [Roof vent](/2016/01/26/roof-vent/)
+- [Insulation](/2016/01/28/insulation/)
+- [Flooring](/2016/02/01/flooring/)
+- [Walls](/2016/02/05/walls/)

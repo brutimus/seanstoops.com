@@ -12,8 +12,8 @@ tags:
 ---
 
 ###### Catch up on previous steps
-- [Introduction](/2016/01/05/introduction)
-- [Planning](/2016/01/06/planning)
+- [Introduction](/2016/01/05/introduction/)
+- [Planning](/2016/01/06/planning/)
 
 ***
 
@@ -107,6 +107,9 @@ I guess the van had an alignment issue that got fixed before I purchased it. But
 ***
 
 ###### Next up:
-- [Deconstruction](/2016/01/25/deconstruction)
-- [Roof vent](/2016/01/26/roof-vent)
-- [Insulation](/2016/01/28/insulation)
+- [Deconstruction](/2016/01/25/deconstruction/)
+- [Roof vent](/2016/01/26/roof-vent/)
+- [Insulation](/2016/01/28/insulation/)
+- [Flooring](/2016/02/01/flooring/)
+- [Walls](/2016/02/05/walls/)
+-

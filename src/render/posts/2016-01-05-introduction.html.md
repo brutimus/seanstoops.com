@@ -39,8 +39,10 @@ Unfortunately, since my build took place over the course of about six weeks, I d
 ***
 
 ###### Next up:
-- [Planning](/2016/01/06/planning)
-- [Purchase](/2016/01/24/sprinter-purchase)
-- [Deconstruction](/2016/01/25/deconstruction)
-- [Roof vent](/2016/01/26/roof-vent)
-- [Insulation](/2016/01/28/insulation)
+- [Planning](/2016/01/06/planning/)
+- [Purchase](/2016/01/24/sprinter-purchase/)
+- [Deconstruction](/2016/01/25/deconstruction/)
+- [Roof vent](/2016/01/26/roof-vent/)
+- [Insulation](/2016/01/28/insulation/)
+- [Flooring](/2016/02/01/flooring/)
+- [Walls](/2016/02/05/walls/)

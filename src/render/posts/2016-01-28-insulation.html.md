@@ -12,11 +12,11 @@ tags:
 ---
 
 ###### Catch up on previous steps
-- [Introduction](/2016/01/05/introduction)
-- [Planning](/2016/01/06/planning)
-- [Purchase](/2016/01/24/sprinter-purchase)
-- [Deconstruction](/2016/01/25/deconstruction)
-- [Roof vent](/2016/01/26/roof-vent)
+- [Introduction](/2016/01/05/introduction/)
+- [Planning](/2016/01/06/planning/)
+- [Purchase](/2016/01/24/sprinter-purchase/)
+- [Deconstruction](/2016/01/25/deconstruction/)
+- [Roof vent](/2016/01/26/roof-vent/)
 
 ***
 
@@ -109,3 +109,10 @@ The idea behind this stuff is you cover a big percentage of any flat surfaces an
 - [Spray Adhesive](http://amzn.to/1KIic6n)
 - [Foil tape](http://amzn.to/1JJnX94)
 - [Utility knife](http://amzn.to/1nqVYjS)
+
+***
+
+###### Next up:
+
+- [Flooring](/2016/02/01/flooring/)
+- [Walls](/2016/02/05/walls/)
