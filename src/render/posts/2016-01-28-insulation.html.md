@@ -116,3 +116,4 @@ The idea behind this stuff is you cover a big percentage of any flat surfaces an
 
 - [Flooring](/2016/02/01/flooring/)
 - [Walls](/2016/02/05/walls/)
+- [Bed](/2016/02/09/bed/)

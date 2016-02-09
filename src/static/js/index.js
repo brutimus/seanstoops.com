@@ -53,4 +53,21 @@
         });
 
     };
+    $(function() {
+        ga(function(){
+            $("a").click(function(e) {
+                e.preventDefault();
+                if (this.host.indexOf('seanstoops') < 0) {
+                    var url = $(this).attr("href");
+                    ga("send", "event", "outbound", "click", url, {"hitCallback":
+                        function () {
+                            document.location = url;
+                        }
+                    });
+                } else {
+                    document.location = url;
+                }
+            });
+        });
+    });
 })(jQuery);

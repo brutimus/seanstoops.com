@@ -29,8 +29,8 @@ Feel free to read through these sections as I get them written to see how I mana
 - [Insulation](/2016/01/28/insulation/)
 - [Flooring](/2016/02/01/flooring/)
 - [Walls](/2016/02/05/walls/)
+- [Bed](/2016/02/09/bed/)
 - Electrical - Coming soon!
-- Bed - Coming soon!
 - Seating - Coming soon!
 - Kitchen - Coming soon!
 - Etc.

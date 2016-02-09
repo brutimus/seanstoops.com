@@ -46,3 +46,4 @@ Unfortunately, since my build took place over the course of about six weeks, I d
 - [Insulation](/2016/01/28/insulation/)
 - [Flooring](/2016/02/01/flooring/)
 - [Walls](/2016/02/05/walls/)
+- [Bed](/2016/02/09/bed/)

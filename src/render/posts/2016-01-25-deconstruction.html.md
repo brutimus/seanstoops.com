@@ -73,3 +73,4 @@ Next up, time to hit the road back home and get ready to build!
 - [Insulation](/2016/01/28/insulation/)
 - [Flooring](/2016/02/01/flooring/)
 - [Walls](/2016/02/05/walls/)
+- [Bed](/2016/02/09/bed/)
