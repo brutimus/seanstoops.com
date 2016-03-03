@@ -47,3 +47,4 @@ Unfortunately, since my build took place over the course of about six weeks, I d
 - [Flooring](/2016/02/01/flooring/)
 - [Walls](/2016/02/05/walls/)
 - [Bed](/2016/02/09/bed/)
+- [Cabinets](/2016/02/19/cabinets/)

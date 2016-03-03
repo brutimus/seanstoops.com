@@ -74,3 +74,4 @@ Next up, time to hit the road back home and get ready to build!
 - [Flooring](/2016/02/01/flooring/)
 - [Walls](/2016/02/05/walls/)
 - [Bed](/2016/02/09/bed/)
+- [Cabinets](/2016/02/19/cabinets/)

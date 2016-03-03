@@ -30,6 +30,7 @@ Feel free to read through these sections as I get them written to see how I mana
 - [Flooring](/2016/02/01/flooring/)
 - [Walls](/2016/02/05/walls/)
 - [Bed](/2016/02/09/bed/)
+- [Cabinets](/2016/02/19/cabinets/)
 - Electrical - Coming soon!
 - Seating - Coming soon!
 - Kitchen - Coming soon!
