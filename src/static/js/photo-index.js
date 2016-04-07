@@ -13,8 +13,8 @@
             var path = $(this).find('Key').text().split('/').slice(0, 2);
             galleries.push({
               'url': '/' + path.join('/') + '/',
-              'title': path[1].replace(/-/g, ' '),
-              'date': new Date($(el).find('LastModified').text()),
+              'title': path[1].split('-').slice(1).join(' '),
+              'date': parseInt(path[1].split('-')[0]),
               'thumbs': keys.filter(function(){
                  var k = $(this).find('Key').text();
                  return k.indexOf(path.join('/')) >= 0 && k.indexOf('thumbnails') >= 0
