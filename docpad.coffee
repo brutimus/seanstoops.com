@@ -20,6 +20,11 @@ docpadConfig = {
           section: 'sprinter'
         },
         {
+          name: 'Photos',
+          href: '/pages/photos/',
+          section: 'photos'
+        },
+        {
           name: 'About',
           href: '/about.html',
           section: 'about'

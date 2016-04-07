@@ -1,0 +1,29 @@
+.photo-index-container {}
+.photo-index-container .gallery {
+  margin-bottom: 30px;
+  text-align: center;
+  font-size: 1.4em;
+}
+.photo-index-container a {
+  text-transform: capitalize;
+  text-decoration: none;
+}
+.photo-index-container .thumbs {
+  height: 10vw;
+  max-width: 100%;
+  margin-top: 5px;
+}
+.photo-index-container .thumbs img {
+  height: 100%;
+  width: auto;
+  display: inline-block;
+  left: 0;
+  max-width: auto;
+  position: relative;
+  transform: none;
+  -webkit-transform: none;
+  padding: 0;
+}
+.photo-index-container .thumbs img:not(:last-of-type) {
+  border-right: 1px solid white;
+}

@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="p:domain_verify" content="c265e6cb05857500db9ffe556462eeac"/>
     <link rel="shortcut icon" href="/favicon.ico">
-    <%- @getBlock("styles").add('/css/screen.css').add('//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400').toHTML() %>
+    <%- @getBlock("styles").add('/css/screen.css').add('//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400').add(@document.styles or []).toHTML() %>
     <meta name="generator" content="Docpad 6.x" />
     <link rel="alternate" type="application/rss+xml" title="<%= @site.title %>" href="/rss.xml" />
   </head>
@@ -24,7 +24,7 @@
       </footer>
 
     </div>
-    <%- @getBlock("scripts").add('//code.jquery.com/jquery-2.1.4.min.js').add('/js/jquery.fitvids.js').add('/js/index.js').toHTML() %>
+    <%- @getBlock("scripts").add('//code.jquery.com/jquery-2.1.4.min.js').add('/js/jquery.fitvids.js').add('/js/index.js').add(@document.scripts or []).toHTML() %>
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
