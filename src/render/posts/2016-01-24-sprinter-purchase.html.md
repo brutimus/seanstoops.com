@@ -114,3 +114,4 @@ I guess the van had an alignment issue that got fixed before I purchased it. But
 - [Walls](/2016/02/05/walls/)
 - [Bed](/2016/02/09/bed/)
 - [Cabinets](/2016/02/19/cabinets/)
+- [Electrical I](/2016/08/05/electrical-i/)
