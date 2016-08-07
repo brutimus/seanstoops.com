@@ -1,29 +1,16 @@
 ---
-title: "Sprinter Van: Electrical I"
+title: "Installing a battery charged by the alternator in my Sprinter camper conversion"
 cover: '/img/cover-electrical-i.jpg'
 isPost: true
 active: true
 excerpt: "The electrical side of a van build is something that should be tailored your power requirements. Some people require little more than a few LED lights and obviously don't spend much time worrying about batteries, solar panels and the like. Others want a mega-system that allows them to plug in laptops, kettles, induction stoves, etc."
 date: '2016/8/5'
 section: 'sprinter'
+layout: 'sprinter'
 tags:
  - sprinter
  - adventure
 ---
-
-###### Catch up on previous steps
-- [Introduction](/2016/01/05/introduction/)
-- [Planning](/2016/01/06/planning/)
-- [Purchase](/2016/01/24/sprinter-purchase/)
-- [Deconstruction](/2016/01/25/deconstruction/)
-- [Roof vent](/2016/01/26/roof-vent/)
-- [Insulation](/2016/01/26/insulation/)
-- [Flooring](/2016/02/01/flooring/)
-- [Walls](/2016/02/05/walls/)
-- [Bed](/2016/02/09/bed/)
-- [Cabinets](/2016/02/19/cabinets/)
-
-***
 
 *Apologies in advance for the total lack of photos for this post. I did my electrical work toward the end of my build when time was running low and I never took a moment to snap a photo. In my upcoming post about the second phase in my electrical work (including solar, fridge, etc.) I will have more photos, I promise!*
 

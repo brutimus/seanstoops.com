@@ -1,22 +1,16 @@
 ---
-title: "Sprinter Van: Deconstruction "
+title: "Cleaning out the Sprinter van and prepping for the camper conversion"
 cover: '/img/build-grinding.jpg'
 isPost: true
 active: true
 excerpt: 'The van was in great shape when I purchased it. However, it still needed a bit of work to strip it down and ready it for the construction process.'
 date: '2016/1/25'
 section: 'sprinter'
+layout: 'sprinter'
 tags:
  - sprinter
  - adventure
 ---
-
-###### Catch up on previous steps
-- [Introduction](/2016/01/05/introduction/)
-- [Planning](/2016/01/06/planning/)
-- [Purchase](/2016/01/24/sprinter-purchase/)
-
-***
 
 The following is a synopsis of the van's condition at the time of purchase:
 
@@ -65,14 +59,3 @@ In retrospect, I should have paid a little more attention to the mechanics. I ha
 Next up, time to hit the road back home and get ready to build!
 
 ![New Mexico](/img/sprinter_new_mexico.jpg)
-
-***
-
-###### Next up:
-- [Roof vent](/2016/01/26/roof-vent/)
-- [Insulation](/2016/01/28/insulation/)
-- [Flooring](/2016/02/01/flooring/)
-- [Walls](/2016/02/05/walls/)
-- [Bed](/2016/02/09/bed/)
-- [Cabinets](/2016/02/19/cabinets/)
-- [Electrical I](/2016/08/05/electrical-i/)

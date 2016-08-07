@@ -1,6 +1,6 @@
 ---
 title: Buying and building out a Sprinter Van
-cover: '/img/sprinter-cochise-night.jpg'
+cover: '/img/cover-sprinter.jpg'
 isPost: true
 active: true
 excerpt: "In the spring of 2015, I purchased a 2004 Sprinter and built it out into a camper van over the following two months. To date (Jan 2016), I've driven it over 20,000 miles around the US and Canada, including many trips to Utah, Arizona and California and a summers-long trip up the west coast to British Columbia for three months. My rusty rattle trap may not be the suavest van rolling down the highway, but it's already led to some of the richest experiences of a lifetime."
@@ -31,7 +31,7 @@ Feel free to read through these sections as I get them written to see how I mana
 - [Walls](/2016/02/05/walls/)
 - [Bed](/2016/02/09/bed/)
 - [Cabinets](/2016/02/19/cabinets/)
-- Electrical - Coming soon!
+- [Electrical I](/2016/08/05/electrical-i/)
 - Seating - Coming soon!
 - Kitchen - Coming soon!
 - Etc.

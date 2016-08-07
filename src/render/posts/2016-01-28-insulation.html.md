@@ -1,24 +1,16 @@
 ---
-title: "Sprinter Van: Insulation"
+title: "Insulating my Sprinter camper conversion"
 cover: '/img/cover-insulation.jpg'
 isPost: true
 active: true
 excerpt: "The most difficult part of insulating was deciding on the materials to use. Once that was done, it was a matter of measure, cut, glue, repeat."
 date: '2016/1/28'
 section: 'sprinter'
+layout: 'sprinter'
 tags:
  - sprinter
  - adventure
 ---
-
-###### Catch up on previous steps
-- [Introduction](/2016/01/05/introduction/)
-- [Planning](/2016/01/06/planning/)
-- [Purchase](/2016/01/24/sprinter-purchase/)
-- [Deconstruction](/2016/01/25/deconstruction/)
-- [Roof vent](/2016/01/26/roof-vent/)
-
-***
 
 #### Material selection
 
@@ -109,13 +101,3 @@ The idea behind this stuff is you cover a big percentage of any flat surfaces an
 - [Spray Adhesive](http://amzn.to/1KIic6n)
 - [Foil tape](http://amzn.to/1JJnX94)
 - [Utility knife](http://amzn.to/1nqVYjS)
-
-***
-
-###### Next up:
-
-- [Flooring](/2016/02/01/flooring/)
-- [Walls](/2016/02/05/walls/)
-- [Bed](/2016/02/09/bed/)
-- [Cabinets](/2016/02/19/cabinets/)
-- [Electrical I](/2016/08/05/electrical-i/)

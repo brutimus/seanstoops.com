@@ -1,0 +1,15 @@
+---
+layout: 'post'
+---
+
+<% @document.styles = '/css/sprinter.css' %>
+
+<%- @partial('sprinter-cta') %>
+
+<hr>
+
+<%- @content %>
+
+<hr>
+
+<%- @partial('sprinter-cta') %>

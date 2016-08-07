@@ -1,0 +1,20 @@
+.cta .read-next-story .post:before {
+    content: "Read the full story";
+}
+
+/*.cta .read-next-story {
+  min-width: 33%;
+}*/
+
+@media only screen and (max-width: 500px) {
+  .cta.read-next {
+      margin-top: 4rem;
+      margin-bottom: 0;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .cta.read-next p {
+      display: block;
+  }
+}

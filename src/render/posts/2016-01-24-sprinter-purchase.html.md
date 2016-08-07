@@ -1,21 +1,16 @@
 ---
-title: "Sprinter Van: Purchase"
+title: "Purchasing a Sprinter van for my camper conversion"
 cover: '/img/cover-purchase.png'
 isPost: true
 active: true
 excerpt: 'At the beginning of my search for a van, the average price tag on the Craigslist listing I saw left me pretty disenchanted with the idea. I expected the prices to be higher than your average Astro van, but seeing old, rusted out, 300k mileage vans still listed for $20,000 was a shock. Luckily, these price tags only reflects the sellers hopes and dreams, not necessarily reality.'
 date: '2016/1/24'
 section: 'sprinter'
+layout: 'sprinter'
 tags:
  - sprinter
  - adventure
 ---
-
-###### Catch up on previous steps
-- [Introduction](/2016/01/05/introduction/)
-- [Planning](/2016/01/06/planning/)
-
-***
 
 *This post is not intended to be any form of financial advice. Your van purchase is your decision. I will simply outline my own experience which turned out pretty well. Good luck! =)*
 
@@ -103,15 +98,3 @@ No injector blow-by (black death)!
 
 ![Purchase Photo 14](/img/purchase/purchase_photo_14.jpg)
 I guess the van had an alignment issue that got fixed before I purchased it. But you can see the damage it did to the front tire.
-
-***
-
-###### Next up:
-- [Deconstruction](/2016/01/25/deconstruction/)
-- [Roof vent](/2016/01/26/roof-vent/)
-- [Insulation](/2016/01/28/insulation/)
-- [Flooring](/2016/02/01/flooring/)
-- [Walls](/2016/02/05/walls/)
-- [Bed](/2016/02/09/bed/)
-- [Cabinets](/2016/02/19/cabinets/)
-- [Electrical I](/2016/08/05/electrical-i/)
