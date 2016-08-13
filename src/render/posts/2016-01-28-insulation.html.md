@@ -12,6 +12,16 @@ tags:
  - adventure
 ---
 
+#### Materials List
+
+- [Polyiso Board](http://www.homedepot.com/p/Thermasheath-Rmax-Thermasheath-3-1-in-x-4-ft-x-8-ft-R-6-Polyisocyanurate-Rigid-Foam-Insulation-Board-787264/100549260)
+- [Reflectix](http://amzn.to/1WQc5Ea)
+- [Denim Batting](http://www.lowes.com/pd_409395-42995-10002-01315_0__?productId=3731875)
+- [Plastic sheeting](http://amzn.to/1PDAS8H)
+- [Spray Adhesive](http://amzn.to/1KIic6n)
+- [Foil tape](http://amzn.to/1JJnX94)
+- [Utility knife](http://amzn.to/1nqVYjS)
+
 #### Material selection
 
 When researching how to insulate the van, it didn't take long to notice the wild controversy of this topic. And rightly so, I suppose. The selection of materials is dependent on your climate and your camping style. The debate on this topic stems from one thing, moisture causing condensation. If you live in a damp environment and cook inside your van, this will be especially true.
@@ -89,15 +99,3 @@ I realize my vapor barrier isn't perfect, but my goal was to at least prevent th
 I debated for days on whether I should use sound dampening materials like [Dynamat](http://amzn.to/1WQkdod). I eventually decided not to due to costs.
 
 The idea behind this stuff is you cover a big percentage of any flat surfaces and it will prevent sound vibrations from carrying through the large body panels. On my next van, I may consider it again, but so far I've been happy with the noise level in my van while traveling down the highway. I think in lieu of spending hundreds on sound dampening the rear, I could better spend my time sealing and sound dampening the front doors, firewall, cab floor, etc.
-
-***
-
-#### Materials List
-
-- [Polyiso Board](http://www.homedepot.com/p/Thermasheath-Rmax-Thermasheath-3-1-in-x-4-ft-x-8-ft-R-6-Polyisocyanurate-Rigid-Foam-Insulation-Board-787264/100549260)
-- [Reflectix](http://amzn.to/1WQc5Ea)
-- [Denim Batting](http://www.lowes.com/pd_409395-42995-10002-01315_0__?productId=3731875)
-- [Plastic sheeting](http://amzn.to/1PDAS8H)
-- [Spray Adhesive](http://amzn.to/1KIic6n)
-- [Foil tape](http://amzn.to/1JJnX94)
-- [Utility knife](http://amzn.to/1nqVYjS)

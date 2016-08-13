@@ -14,6 +14,17 @@ tags:
 
 *Apologies in advance for the total lack of photos for this post. I did my electrical work toward the end of my build when time was running low and I never took a moment to snap a photo. In my upcoming post about the second phase in my electrical work (including solar, fridge, etc.) I will have more photos, I promise!*
 
+#### Materials list
+
+- [WirthCo 125 amp Battery Isolator](http://amzn.to/2aAqeCE)
+- [100 amp hour deep cycle battery](http://amzn.to/2aArENt)
+- [Fuse block](http://amzn.to/2at3STN)
+- [Small fuses](http://amzn.to/2aBzSe7)
+- [High amp fuse holder](http://amzn.to/2aVt9Kj)
+- [High amp fuses](http://amzn.to/2aAs4DA)
+
+***
+
 The electrical side of a van build is something that should be tailored your power requirements. Some people require little more than a few LED lights and obviously don't spend much time worrying about batteries, solar panels and the like. Others want a mega-system that allows them to plug in laptops, kettles, induction stoves, etc.
 
 For my build, I didn't plan to start out with much -- just a few LED lights, a roof fan and USB plugs for phones and accessories. I did, however, want to leave room for expansion in case I decided to install a 12V fridge at a later date (and as of this writing, I have since installed a 12V fridge and am very glad I over-planned in the beginning).
@@ -97,15 +108,6 @@ Now cut a piece of 16 gauge wire and run it through this path and connect the en
 This electrical system ended up working great for my first long summer trip and for smaller trips through the rest of the fall and winter. I ended up revisiting my build the following spring to install solar panels, a solar charge controller and a fridge.
 
 I'll be back with a new post about that soon!
-
-#### Materials list
-
-- [WirthCo 125 amp Battery Isolator](http://amzn.to/2aAqeCE)
-- [100 amp hour deep cycle battery](http://amzn.to/2aArENt)
-- [Fuse block](http://amzn.to/2at3STN)
-- [Small fuses](http://amzn.to/2aBzSe7)
-- [High amp fuse holder](http://amzn.to/2aVt9Kj)
-- [High amp fuses](http://amzn.to/2aAs4DA)
 
 ---
 

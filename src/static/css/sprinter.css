@@ -34,7 +34,7 @@
   margin-bottom: 2px;
 }
 .nav-grid a:hover:after {
-    background: rgba(0,0,0,0.5);
+    background: radial-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.4));
     transition: all 0.2s ease;
 }
 .nav-grid a:after {
@@ -45,7 +45,7 @@
     right: 0;
     bottom: 0;
     left: 0;
-    background: rgba(0,0,0,0.6);
+    background: radial-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.6));
     transition: all 0.5s ease;
 }
 .nav-grid a:nth-child(3n+3) {

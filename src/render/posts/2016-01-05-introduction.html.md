@@ -1,6 +1,6 @@
 ---
 title: "Sprinter Van: Introduction"
-cover: '/img/sprinter-red-rocks.jpg'
+cover: '/img/cover-sprinter.jpg'
 isPost: true
 active: true
 excerpt: "Over the years, I’ve spent quite a bit of time traveling, camping and living off and on in the back of my 2001 Ford Escape. This has been my dream vehicle for over a decade now: it's four wheel drive, seats four, sleeps two with room to spare and it's beefy enough to tow a trailer. I've traveled in it for months at a time. With two people traveling long term, it's tight and you can't take much gear, but it's doable without much fuss."
