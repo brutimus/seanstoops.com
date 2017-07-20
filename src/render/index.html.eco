@@ -1,11 +1,7 @@
 ---
 layout: 'default'
 section: 'home'
-isPaged: true
-pagedCollection: 'posts'
-split: true
-prefix: 'page'
-pageSize: 20
+styles: '/css/custom.css'
 ---
 
 <header class="main-header" style="background-image: url(<%= @masthead() %>)">
@@ -27,7 +23,67 @@ pageSize: 20
 </header>
 
 <main id="content" class="content" role="main">
+  <article class="post page">
 
-  <%- @partial('loop') %>
+    <div class="index-grid clearfix">
+      <div class="box" id="intro">
+        <blockquote>
+          <p>
+            <b>Welcome.</b> I use this site as a place to share my projects and adventures.
+          </p>
+          <p>
+            Currently, I'm writing my series on how I converted my Sprinter van into an adventure mobile. Some day I may find other topics to talk about, perhaps another van conversion.
+          </p>
+          <p>
+            You can also find a few adventure photos of mine on here, but these are really only here to share with friends.
+          </p>
+          <p>
+            Happy reading! -Sean
+          </p>
+      </blockquote>
+      </div>
+      <div class="box" id="nav">
+        <ul class="nav-grid">
+          <a class="nav-grid-link" href="/pages/sprinter">
+            <li>
+              <img src="/img/thumbs/index/sprinter.jpg">
+              <h3>Sprinter conversion</h3>
+            </li>
+          </a>
+          <a class="nav-grid-link" href="/pages/photos/">
+            <li>
+              <img src="/img/thumbs/index/photos.jpg">
+              <h3>Adventure photos</h3>
+            </li>
+          </a>
+        </ul>
+      </div>
+    </div>
+
+    <footer class="post-footer">
+      <% if @author.img: %>
+      <figure class="author-image">
+        <a class="img" href="<%= @author.href %>" style="background-image: url(<%= @author.img %>)"><span class="hidden"><%= @author.name %>'s Picture</span></a>
+      </figure>
+      <% end %>
+
+      <section class="author">
+        <h4><a href="<%= @author.href %>"><%= @author.name %></a></h4>
+
+        <% if @author.bio: %>
+        <p><%- @author.bio %></p>
+        <% end %>
+        <div class="author-meta">
+          <% if @author.location: %>
+          <span class="author-location icon-location"><%= @author.location %></span>
+          <% end %>
+          <% if @author.website: %>
+          <span class="author-link icon-link"><a href="<%= @author.website %>"><%= @author.website %></a></span>
+          <% end %>
+        </div>
+      </section>
+
+    </footer>
+  </article>
 
 </main>

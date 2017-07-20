@@ -7,7 +7,7 @@ excerpt: "In the spring of 2015, I purchased a 2004 Sprinter and built it out in
 date: 2016/1/1
 section: 'sprinter'
 layout: 'page'
-styles: '/css/sprinter.css'
+styles: '/css/custom.css'
 tags:
  - sprinter
  - adventure
@@ -106,9 +106,18 @@ tags:
 
 <hr>
 
-<p>To date (Aug 2016), I&#39;ve driven it over 30,000 miles around the US and Canada, including many trips to Utah, Arizona and California and two summer trips up the west coast to British Columbia for three months each.</p>
-<p>It&#39;s often filled to the brim with climbing gear, bicycles, beer and friends.</p>
-<p>So far I&#39;ve had no break downs with only one near disaster when my rear brake lines rusted out and I lost all my brake fluid.</p>
-<p>It&#39;s been stuck once in, unfortunately, probably the <a href="https://www.google.com/maps/place/Unnamed+Rd,+Powell+River,+BC+V8A,+Canada/@50.1753944,-124.2286814,17z/data=!3m1!4b1!4m2!3m1!1s0x548788c55e98315b:0xa3938f36131619e!5m1!1e4">remotest place</a> I&#39;ve had it.</p>
-<p>My rusty rattle trap may not be the suavest van rolling down the highway, but it&#39;s already led to some of the richest experiences of a lifetime.</p>
-<p><img src="/img/sprinter-friends.jpg" alt="Friends in Vedauwoo"></p>
+<% for page in @getPageCollection("posts").findAll({section: 'sprinter'}).toJSON(): %>
+<article class="post">
+    <header class="post-header">
+        <h2 class="post-title"><a href="<%= page.url %>"><%= page.title %></a></h2>
+    </header>
+    <section class="post-excerpt">
+      <p><%- @excerpt(page) %> <a class="read-more" href="<%= page.url %>">&raquo;</a></p>
+    </section>
+    <footer class="post-meta">
+      <time class="post-date" datetime="<%= @time(page.date, 'YYYY-MMMM-DD') %>"><%= @time(page.date, 'DD MMMM YYYY') %></time>
+    </footer>
+</article>
+<% end %>
+
+<hr>

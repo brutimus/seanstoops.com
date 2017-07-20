@@ -35,5 +35,6 @@
       ga('require', 'linkid');
       ga('send', 'pageview');
     </script>
+    <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=5089436f-ceee-47b1-bc15-16a613a0089d"></script>
   </body>
 </html>
